@@ -26,6 +26,7 @@ The eight queens problem is the problem of placing eight queens on an 8×8 chess
 I used recursion to find a solution to this problem. You can check out the source code [here](https://github.com/MamadouBarri/8Queens/blob/master/HuitesDames/src/Dames.java).
 </br>
 Here's a solution for a 10x10 chessboard:
+<br></br>
 ![alt text](https://github.com/MamadouBarri/8Queens/blob/master/Capture.PNG?raw=True)
 
 ## License
